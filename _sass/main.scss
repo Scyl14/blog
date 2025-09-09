@@ -3,5 +3,5 @@
 @forward 'layout';
 @forward 'pages';
 html {
-  font-size: 20px; // da 16px → 20px ≈ 125%
+  font-size: 20px !important;
 }
