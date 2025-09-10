@@ -4,6 +4,22 @@ categories: [DFIR, XINTRA]
 tags: [difir, labs]     # TAG names should always be lowercase
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 2em;">
+  <img src="assets\img\favicons\VVimg\VirusVipersLogo.png" alt="alt text" style="max-width: 250px; height: auto;">
+  <div>
+    <!-- Qui il tuo testo -->
+    <span style="font-size:0.95em;">
+      SyntheticPartners is an AI romance chat bot <br>
+      company specialising in the production of synthetic partners™. <br>
+      They rely on an MSSP company called VirusVipers for all <br>
+      their security managed services where access is handled through a VPN. <br>
+      Around October 2023, SyntheticPartners was alerted by <br>
+      VirusVipers that the MSSP had suffered an internal breach <br>
+      by APT10 leading to access of several of their clients networks.<br>
+    </span>
+  </div>
+</div>
+
 # RPD Connection
 
 ## Question 1 - Can you identify the timestamp of the suspicious RDP connection SyntheticPartners mentioned?
